@@ -5,7 +5,7 @@
     <td width="75%">
       <h1>Ouyang Hao</h1>
       <p><b>Undergraduate Student</b></p>
-      <p><b>Tiangong University</b></p>
+      <p><b>Tiangong University  2018.9-2022.7</b></p>
       <p><b>-School of Electronics and Information Engineering</b></p>
       <p><b>-Telecommunication Engineering</b></p>
       <p><b>E-Mail: ouyanghaomail@gmail.com</b></p>

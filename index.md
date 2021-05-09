@@ -1,9 +1,9 @@
-# Curriculum Vitae
+# Personal Homepage
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Ouyang Hao</h1>
+      <h2>Ouyang Hao</h2>
       <p><b>Undergraduate Student</b></p>
       <p><b>Tiangong University  2018.9-2022.7</b></p>
       <p><b>-School of Electronics and Information Engineering</b></p>

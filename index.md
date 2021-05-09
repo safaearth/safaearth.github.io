@@ -21,15 +21,15 @@
 #### Competition
 - **(2019)International Underwater Robot Competition(URC) - First Prize**
   ![certificate1](/ILUR_2.jpg)
-- **(2019)Robot competition for college students in five provinces(cities and autonomous regions) of North China - Sceond Prize**
+- **(2019)Robot competition for college students in five provinces(cities and autonomous regions) of North China - Second Prize**
   ![certificate2](/华北五省_1.jpg)
 - **(2020)China National College Student "Innovation, Originality and Entrepreneurship" Challenge(Tianjin) - First Prize**
   ![certificate3](/三创赛.jpg)
 - **(2020)Tianjin's university students information technology "New Engineering" engineering practice innovation technology competition - First Prize**
   ![certificate4](/新工科.jpg)
-- **(2020)National Undergraduate Electronics Design Contest(Tianjin) - Sceond Prize**
+- **(2020)National Undergraduate Electronics Design Contest(Tianjin) - Second Prize**
   ![certificate5](/电赛2.jpg)
-- **(2020)"Qihang Cup" Mathematical Modeling Individual Invitational Competition of Chinese Universities - Sceond Prize**
+- **(2020)"Qihang Cup" Mathematical Modeling Individual Invitational Competition of Chinese Universities - Second Prize**
   ![certificate6](/起航杯.jpg)
 #### Scholarship
 - **(2019)"President Third-class Scholarship" of Tiangong University**

@@ -19,11 +19,17 @@
 
 
 ## Honors&Awards
-- (2019)The 12th International Underwater Robot Competition(URC)  First Prize
+### Competition
+- **(2019)International Underwater Robot Competition(URC) - First Prize**
+- **(2019)Robot competition for college students in five provinces(cities and autonomous regions) of North China - Sceond Prize**
+- **(2020)China National College Student "Innovation, Originality and Entrepreneurship" Challenge(Tianjin) - First Prize**
+- **(2020)Tianjin's university students information technology "New Engineering" engineering practice innovation technology competition - First Prize**
+- **(2020)National Undergraduate Electronics Design Contest(Tianjin) - Sceond Prize**
+- **(2020)"Qihang Cup" Mathematical Modeling Individual Invitational Competition of Chinese Universities - Sceond Prize**
+### Scholarship
+- **(2019)"President Third-class Scholarship" of Tiangong University**
+- **(2020)"President First-class Scholarship" of Tiangong University**
 
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```

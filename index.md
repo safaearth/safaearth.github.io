@@ -21,48 +21,27 @@
 ## Honors&Awards
 ### Competition
 - **(2019)International Underwater Robot Competition(URC) - First Prize**
-  ![certificate](/ILUR_2.jpg)
+  ![certificate1](/ILUR_2.jpg)
 - **(2019)Robot competition for college students in five provinces(cities and autonomous regions) of North China - Sceond Prize**
+  ![certificate2](/华北五省_1.jpg)
 - **(2020)China National College Student "Innovation, Originality and Entrepreneurship" Challenge(Tianjin) - First Prize**
+  ![certificate3](/三创赛.jpg)
 - **(2020)Tianjin's university students information technology "New Engineering" engineering practice innovation technology competition - First Prize**
+  ![certificate4](/新工科.jpg)
 - **(2020)National Undergraduate Electronics Design Contest(Tianjin) - Sceond Prize**
+  ![certificate5](/电赛2.jpg)
 - **(2020)"Qihang Cup" Mathematical Modeling Individual Invitational Competition of Chinese Universities - Sceond Prize**
+  ![certificate6](/起航杯.jpg)
 ### Scholarship
 - **(2019)"President Third-class Scholarship" of Tiangong University**
+  ![certificate7](/奖学金3.jpg)
 - **(2020)"President First-class Scholarship" of Tiangong University**
+  ![certificate8](/奖学金1.jpg)
 
+## Project Experience
+- **[Real-time face recognition system based on OpenCV](https://blog.csdn.net/Insincerity/article/details/105838856)**
 
-<html>
-<head>
-<meta charset="utf-8">
-</head>
-<body>
-<div class="warp" id="div1">
-    <div class="navBox">
-        <span><img src="/ILUR_2.jpg" alt="" style="display:none;" />请选择</span>
-        <em class="triangle"><i></i></em>
-    </div>
-</div>
-</body>
-</html>
+   This project built a video image attendance system in the Windows 10 environment, using Visual Studio 2017, Anaconda3.5.3, OpenCV-4.1.0 and OpenCV-contrib-4.1.0 to build, complete the collection of face images,Collect images to gray scale, make CSV directory file, generate XML training set, face matching, and finally achieve the purpose of real-time attendance of video images.To realize a complete video image attendance, there are four parts in total: collecting face pictures, making CSV files, making XML training set files, and making face recognition and matching attendance.When making the CSV directory file, use the Python script in Anaconda to generate the CSV file.In the face image collection, the production of XML training set, the final face matching attendance part is completed by Visual Studio 2017.This project introduces the basic theory of face recognition, the principle and model of face recognition, explains the code part, and records the whole process of the project design and implementation
 
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/safaearth/safaearth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-You can use the [CSDN-Safaearth](https://blog.csdn.net/Insincerity) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[Link](url) and ![Image](src)
-```
+## Blog
+- **[CSDN-Safaearth](https://blog.csdn.net/Insincerity)**

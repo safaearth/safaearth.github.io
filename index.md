@@ -12,14 +12,15 @@
       <p><b>Address: Tiangong University No. 399 BinShuiXi Road, XiQing District, Tianjin</b></p>
     </td>
     <td width="25%">
-      <img src="/OuyangHao.jpg" width="100%">      % 插入证件照代码
+      <img src="/OuyangHao.jpg" width="100%">      
     </td>
   </tr>
 </table>
 
 
 ## Honors&Awards
-1. Numbered
+- (2019)The 12th International Underwater Robot Competition(URC)  First Prize
+
 2. List
 
 **Bold** and _Italic_ and `Code` text

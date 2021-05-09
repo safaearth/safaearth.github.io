@@ -31,50 +31,23 @@
 - **(2019)"President Third-class Scholarship" of Tiangong University**
 - **(2020)"President First-class Scholarship" of Tiangong University**
 
-<!DOCTYPE html>
+
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>基于div+css技术的下拉菜单制作</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-	</head>
-	<body>
-		<div id="wrap">
-			<header>
-				<img src="images/head.jpg" />
-			</header>
-			<nav id="menu">
-				<ul>
-					<li><a href="#">本站首页</a></li>
-					<li><a href="#">本院概况</a>
-						<ul>
-							<li><a href="#">本院介绍</a></li>
-							<li><a href="#">学院领导</a></li>
-							<li><a href="#">教学成果</a></li>
-						</ul>
-					</li>
-					<li><a href="#">师资队伍</a>
-						<ul>
-							<li><a href="#">计算机教研室</a></li>
-							<li><a href="#">英语教研室</a></li>
-							<li><a href="#">体育教研室</a></li>
-							<li><a href="#">综合教研室</a></li>
-						</ul>
-					</li>
-					<li><a href="#">教务管理</a></li>
-					<li><a href="#">党政建设</a></li>
-					<li><a href="#">学校首页</a></li>
-				</ul>
-			</nav>
-			<div id="banner">
-				<img src="images/banner.jpg" />
-			</div>
-		</div>
-	</body>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<div class="warp" id="div1">
+    <div class="navBox">
+        <span><img src="/ILUR_2.jpg" alt="" style="display:none;" />请选择</span>
+        <em class="triangle"><i></i></em>
+    </div>
+</div>
+</body>
 </html>
 
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -90,3 +63,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 You can use the [CSDN-Safaearth](https://blog.csdn.net/Insincerity) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[Link](url) and ![Image](src)
+```

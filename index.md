@@ -3,8 +3,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>Ouyang Hao</h2>
-      <p><b>Undergraduate Student</b></p>
+      <h1>Ouyang Hao</h1>
+      <p><b>Undergraduate Student</b></p> 
       <p><b>Tiangong University  2018.9-2022.7</b></p>
       <p><b>-School of Electronics and Information Engineering</b></p>
       <p><b>-Telecommunication Engineering</b></p>
@@ -19,7 +19,7 @@
 
 
 ## Honors&Awards
-### Competition
+#### Competition
 - **(2019)International Underwater Robot Competition(URC) - First Prize**
   ![certificate1](/ILUR_2.jpg)
 - **(2019)Robot competition for college students in five provinces(cities and autonomous regions) of North China - Sceond Prize**
@@ -32,7 +32,7 @@
   ![certificate5](/电赛2.jpg)
 - **(2020)"Qihang Cup" Mathematical Modeling Individual Invitational Competition of Chinese Universities - Sceond Prize**
   ![certificate6](/起航杯.jpg)
-### Scholarship
+#### Scholarship
 - **(2019)"President Third-class Scholarship" of Tiangong University**
   ![certificate7](/奖学金3.jpg)
 - **(2020)"President First-class Scholarship" of Tiangong University**

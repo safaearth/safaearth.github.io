@@ -12,7 +12,7 @@
       <p><b>Address: Tiangong University No. 399 BinShuiXi Road, XiQing District, Tianjin</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/OuyangHao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>

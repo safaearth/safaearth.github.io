@@ -22,12 +22,19 @@
 - **CET 4-College English Test 4**
 - **CET 6-College English Test 6**
 
-##  Programming Language 
+## Programming Language 
 
-- C/C++ 
-- Python 
-- Matlab 
-- Verilog/VHDL
+- **C/C++** 
+- **Python** 
+- **Matlab** 
+- **Verilog/VHDL**
+
+## Software
+
+**Visual Studio**, **Matlab**, **PyChram**, **Anaconda**, **OpenCV**, **TensorFlow**,
+
+**Quartus II**, **Vivado**, **Keil4/5**, **Arduino**, **Altium Designer**, **Multisim**
+
 
 ## Project Experience
 - **[Real-time face recognition system based on OpenCV](https://blog.csdn.net/Insincerity/article/details/105838856)**

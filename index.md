@@ -1,18 +1,14 @@
 # Personal Homepage
-<table border="15">
+<table border="0">
   <tr>
-    <td width="80%">
+      <img src="/OuyangHao.jpg" width="20%"> 
       <h2>Ouyang Hao</h2>
       <p><b>Undergraduate Student</b></p> 
       <p><b>Tiangong University  2018.9-2022.7</b></p>
       <p><b>-School of Electronics and Information Engineering</b></p>
       <p><b>-Telecommunication Engineering</b></p>
       <p><b>E-Mail: ouyanghaomail@gmail.com</b></p>
-      <p><b>Address: Tiangong University No. 399 BinShuiXi Road, XiQing District, Tianjin</b></p>
-    </td>
-    <td width="25%">
-      <img src="/OuyangHao.jpg" width="100%">      
-    </td>
+      <p><b>Address: Tiangong University No. 399 BinShuiXi Road, XiQing District, Tianjin</b></p>   
   </tr>
 </table>
 

@@ -1,5 +1,5 @@
 # Personal Homepage
-<table border="0">
+<table border="15">
   <tr>
     <td width="80%">
       <h2>Ouyang Hao</h2>
@@ -10,7 +10,7 @@
       <p><b>E-Mail: ouyanghaomail@gmail.com</b></p>
       <p><b>Address: Tiangong University No. 399 BinShuiXi Road, XiQing District, Tianjin</b></p>
     </td>
-    <td width="15%">
+    <td width="25%">
       <img src="/OuyangHao.jpg" width="100%">      
     </td>
   </tr>

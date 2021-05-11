@@ -1,6 +1,4 @@
-
-
-
+# Personal Homepage
 
 <img src="/OuyangHao.jpg" width="20%"> 
 <h1>Ouyang Hao</h1>
